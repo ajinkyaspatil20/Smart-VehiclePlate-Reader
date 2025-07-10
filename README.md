@@ -105,17 +105,6 @@ http://localhost:5000
        ↓
 5️⃣ Results shown on Dashboard!
 
-## 🛠 Folder Structure
-📁 vehicle-number-plate-detection
-│
-├── app.py                  # Flask backend
-├── static/                 # CSS, JS, image files
-├── templates/              # HTML pages
-├── model/                  # SSD model files
-├── utils/                  # Helper functions
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
-
 ## 🌐 Deploy to Cloud
 ✅ Ready for Pivotal Cloud Foundry, Heroku, Render, or even Docker.
 Just add your Procfile, manifest.yml, and you're good to go.
